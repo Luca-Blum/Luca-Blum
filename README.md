@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luca Blum
-- 👀 I’m interested in machine learning and deep learning especially for medical appliclations and high performance computing.
+- 👀 I’m interested in machine learning and deep learning, especially for medical applications and high performance-computing.
 - 🌱 I’m currently enrolled in the Master's program in Computational Science and Engineering at the ETH Zurich
 - 📫 How to reach me: lblum@student.ethz.ch
 
